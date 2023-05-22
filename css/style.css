@@ -44,7 +44,9 @@
 /*** Button ***/
 .btn {
     font-weight: 500;
+    border-radius: 30px;
     transition: .5s;
+
 }
 
 .btn.btn---danger,
