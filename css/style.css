@@ -6,6 +6,20 @@
     --dark: #12141D;
     --danger:#dc3545;
 }
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+  }
+  
+  p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+  }
+  
 
 .back-to-top {
     position: fixed;
