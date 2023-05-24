@@ -1,3 +1,4 @@
+// JavaScript code
 // Get the button element
 const downloadButton = document.getElementById('download-cv');
 
