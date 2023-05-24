@@ -10,5 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Noel",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jspdf": "^2.5.1"
+  }
 }
